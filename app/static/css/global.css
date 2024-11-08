@@ -1,0 +1,22 @@
+:root {
+    --Dark-Purple: #331E38;
+    --Pomp-and-Power: #706993;
+    --Moonstone: #70A0AF;
+    --Ash-gray: #A0C1B9;
+  }
+
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+    background-color: var(--Dark-Purple);
+}
+
+.container-fluid {
+    height: 100%;
+}
+
+.customNavbar{
+    background-color: var(--Pomp-and-Power);
+}
