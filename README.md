@@ -11,4 +11,4 @@ LatexPress est un projet conçu pour faciliter la génération de documents en L
 
 2. **Lancer le script**:
     ```python
-    python ./run.py
+    python .\run.py
